@@ -1,0 +1,25 @@
+
+body {
+
+  background: linear-gradient(68deg, #C7C5A7 0.9em, rgba(255, 255, 255, 0) 0.99em) 3em -3em, linear-gradient(-68deg, #C7C5A7 0.9em, rgba(255, 255, 255, 0) 0.99em) -3em -3em, radial-gradient(circle, #c7c5a7 0.9em, rgba(255, 255, 255, 0) 0.99em) 0 0, linear-gradient(68deg, #8BA88F 0.9em, rgba(255, 255, 255, 0) 0.99em) 0 0, linear-gradient(-68deg, #8BA88F 0.9em, rgba(255, 255, 255, 0) 0.99em) 0 0, radial-gradient(circle, #8ba88f 0.9em, rgba(255, 255, 255, 0) 0.99em) 3em 3em;
+  background-size: 6em 6em;
+  background-color: #E0DCD9;
+  background-repeat: repeat;
+  font: 16px/2 'Trebuchet MS', Verdana, sans-serif;
+
+}
+
+
+.center_text { text-align: center; }
+
+#comic div {
+  padding-bottom: 50px;
+}
+
+#comic div p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  }
